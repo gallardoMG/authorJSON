@@ -1,6 +1,6 @@
 {
-	"author": "Eduardo Gallardo",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Eduardo Gallardo",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
